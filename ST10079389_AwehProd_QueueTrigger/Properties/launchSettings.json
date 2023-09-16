@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ST10079389_AwehProd_QueueTrigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7277",
+      "launchBrowser": false
+    }
+  }
+}
